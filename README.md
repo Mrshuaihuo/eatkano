@@ -63,7 +63,7 @@ _🦌 网页小游戏 🥛_
 
    你可以随意更改右侧文字, 就可以显示你想要的内容 **不要删掉双引号**
 
-3. 找到`static/image`文件夹, 点击前显示的图片是`ClickBefore.png`, 点击后的图片是`ClickAfter.png`, 把他们改成你想要的即可.
+3. 找到`static/image`文件夹, 点击前显示的图片是`-4cceaf5fd3ed0c05.png`, 点击后的图片是`ClickAfter.png`, 把他们改成你想要的即可.
 
     **注意文件格式, 需要是png**
 
